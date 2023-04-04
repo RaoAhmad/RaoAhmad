@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaoAhmad
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning back-end
+- 🌱 Full Stack
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 Reach me through @RaoAhmad on github
 
