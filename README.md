@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RaoAhmad
-- 👀 Ninja in coding
 - 🌱 Full Stack
 - 💞️ Mern Stack
 - 💞️ I’m looking to collaborate on new Projects
